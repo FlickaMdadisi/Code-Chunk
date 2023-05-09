@@ -1,7 +1,7 @@
 Tidy Data - Pivot Wider
 ================
 
-## Tidy data - pivot wider to organize data for analysis with variables as columns
+## Tidy data - pivot wider to organize data for ease of analysis
 
 This code reshapes the `Titanic` data into a wider data frame. It uses the `Titanic` dataset built-into R which provides information about the survival of passengers on the Titanic voyage. Using the [`pivot_wider()`](https://tidyr.tidyverse.org/reference/pivot_wider.html) function, it increases the number of columns while decreasing the number of rows.
 
